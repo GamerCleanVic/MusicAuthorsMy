@@ -2,7 +2,7 @@
 Citação necessária de autores de músicas.
 
 <h1>Autores das músicas / Music Authors.</h1>
-
+<p align="center">
 Nara by Electronic Senses | https://soundcloud.com/electronicsenses
 Music promoted by https://www.free-stock-music.com
 Creative Commons Attribution-ShareAlike 3.0 Unported
@@ -162,3 +162,5 @@ Home Sweet Megalopolis by TeknoAXE | http://teknoaxe.com
 Music promoted by https://www.free-stock-music.com
 Attribution 4.0 International (CC BY 4.0)
 https://creativecommons.org/licenses/by/4.0/
+
+</p>
